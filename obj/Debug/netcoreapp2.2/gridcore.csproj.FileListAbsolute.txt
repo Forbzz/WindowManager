@@ -1,0 +1,12 @@
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\bin\Debug\netcoreapp2.2\gridcore.deps.json
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\bin\Debug\netcoreapp2.2\gridcore.runtimeconfig.json
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\bin\Debug\netcoreapp2.2\gridcore.runtimeconfig.dev.json
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\bin\Debug\netcoreapp2.2\gridcore.dll
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\bin\Debug\netcoreapp2.2\gridcore.pdb
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.csprojAssemblyReference.cache
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.AssemblyInfoInputs.cache
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.AssemblyInfo.cs
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.csproj.CoreCompileInputs.cache
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.dll
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.pdb
+C:\Users\Forbz\Downloads\GridCore-master\GridCore-master\obj\Debug\netcoreapp2.2\gridcore.genruntimeconfig.cache

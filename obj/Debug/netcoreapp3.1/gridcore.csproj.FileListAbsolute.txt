@@ -1,0 +1,142 @@
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.exe
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.deps.json
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.runtimeconfig.json
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.runtimeconfig.dev.json
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.pdb
+D:\GridCore-master\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csprojAssemblyReference.cache
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.AssemblyInfoInputs.cache
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.AssemblyInfo.cs
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csproj.CoreCompileInputs.cache
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csproj.CopyComplete
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.dll
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.pdb
+D:\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.genruntimeconfig.cache
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.exe
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.deps.json
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.runtimeconfig.json
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.runtimeconfig.dev.json
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\gridcore.pdb
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csprojAssemblyReference.cache
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.AssemblyInfoInputs.cache
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.AssemblyInfo.cs
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csproj.CoreCompileInputs.cache
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.csproj.CopyComplete
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.dll
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.pdb
+C:\Users\Forbz\Desktop\6 сем\Курсовая\GridCore-master\obj\Debug\netcoreapp3.1\gridcore.genruntimeconfig.cache
